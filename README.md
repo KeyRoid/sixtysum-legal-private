@@ -1,19 +1,17 @@
-# TimeSum Legal Pages Private Staging
+# TimeSum Legal Pages
 
-This repository is a private staging copy for TimeSum legal pages.
+This repository contains the legal and support pages for TimeSum.
 
-Important rules:
+## Pages
 
-- Keep this repository private until the owner explicitly approves publication.
-- Do not enable GitHub Pages before June 2026 and explicit owner approval.
-- Final public paths are planned as:
-  - https://keyroid.github.io/timesum/
-  - https://keyroid.github.io/timesum/privacy/
-  - https://keyroid.github.io/timesum/terms/
+- `timesum/index.html`: Support
+- `timesum/privacy/index.html`: Privacy Policy
+- `timesum/terms/index.html`: Terms of Use
+- `timesum/tokushoho/index.html`: Commercial Disclosure
 
-Contents:
+## Public Paths
 
-- `timesum/index.html`
-- `timesum/privacy/index.html`
-- `timesum/terms/index.html`
-- `timesum/tokushoho/index.html`
+- `https://keyroid.github.io/timesum/`
+- `https://keyroid.github.io/timesum/privacy/`
+- `https://keyroid.github.io/timesum/terms/`
+- `https://keyroid.github.io/timesum/tokushoho/`
