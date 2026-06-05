@@ -1,18 +1,15 @@
-# TimeSum Legal Pages
+# SixtySum Privacy Page Source
 
-This repository contains the legal and support pages for TimeSum.
+This repository contains the app-specific privacy page source for SixtySum.
+
+Common support is handled by the shared KeyRoid support page.
 
 ## Pages
 
-- `timesum/support/index.html`: Support
-- `timesum/index.html`: Support landing
-- `timesum/privacy/index.html`: Privacy Policy
-- `timesum/terms/index.html`: Terms of Use
-- `timesum/tokushoho/index.html`: Commercial Disclosure
+- `sixtysum/privacy/index.html`: Privacy Policy
+- `sixtysum/index.html`: Privacy landing
 
 ## Public Paths
 
-- `https://keyroid.github.io/timesum/support/`
-- `https://keyroid.github.io/timesum/privacy/`
-- `https://keyroid.github.io/timesum/terms/`
-- `https://keyroid.github.io/timesum/tokushoho/`
+- `https://keyroid.github.io/ks-app/support.html`
+- `https://keyroid.github.io/sixtysum/privacy/`
