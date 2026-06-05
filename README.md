@@ -12,4 +12,4 @@ Common support is handled by the shared KeyRoid support page.
 ## Public Paths
 
 - `https://keyroid.github.io/ks-app/support.html`
-- `https://keyroid.github.io/sixtysum/privacy/`
+- `https://keyroid.github.io/sixtysum-legal-private/sixtysum/privacy/`
